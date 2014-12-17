@@ -18,8 +18,8 @@ layout: recipes
 - zabalit ovoce (pomozte si moukou)
 - vařit 15 min (hlídat!)
 
-![Zabalené knedlíky](./ovocne-knedliky/01.jpg)
+![Zabalené knedlíky](/recepty-fotky/ovocne-knedliky-01.jpg)
 
-![Vaříme](./ovocne-knedliky/02.jpg)
+![Vaříme](/recepty-fotky/ovocne-knedliky-02.jpg)
 
-![Servírujeme](./ovocne-knedliky/03.jpg)
+![Servírujeme](/recepty-fotky/ovocne-knedliky-03.jpg)
