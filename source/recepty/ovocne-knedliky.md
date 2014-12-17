@@ -10,11 +10,10 @@ layout: recipes
  - špetka soli
  - trochu mléka – aby bylo těsto tak akorát na rozválení
  - ovoce
- 
 
 ### Postup
 - propracovat těsto
-- rozválet placku 0,5 cm
+- rozválet placku asi 0,5 cm
 - ukrojit kus placky
 - zabalit ovoce (pomozte si moukou)
 - vařit 15 min (hlídat!)
