@@ -1,0 +1,12 @@
+---
+layout: base
+title: Seznam receptů
+---
+
+<ul>
+    {% for rec in site.menu %}
+        <li>
+            <a href="{{ site.url }}/recepty/{{ rec.url }}">{{ rec.name }}</a>
+        </li>
+    {% endfor %}
+</ul>
