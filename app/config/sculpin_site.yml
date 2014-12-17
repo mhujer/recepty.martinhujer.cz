@@ -6,9 +6,5 @@ google_analytics_tracking_id:
 
 menu:
   -
-    name: "Rec1"
-    url: "test1"
-
-  -
-    name: "Rec2"
-    url: "test2"
+    name: "Ovocné knedlíky"
+    url: "ovocne-knedliky"
