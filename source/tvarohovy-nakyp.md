@@ -20,6 +20,6 @@ layout: recipes
 - péct ve středně vyhřáté troubě 45 minut
 
 Těsta bylo málo, takže druhá poloviny na přelití nezbyla
-![Před pečením](/recepty-fotky/tvarohovy-nakyp-1.jpg)
+![Před pečením](/fotky/tvarohovy-nakyp-1.jpg)
 
-![Upečeno](/recepty-fotky/tvarohovy-nakyp-2.jpg)
+![Upečeno](/fotky/tvarohovy-nakyp-2.jpg)
