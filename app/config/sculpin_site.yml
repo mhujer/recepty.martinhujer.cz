@@ -15,5 +15,8 @@ menu:
     name: "Tvarohový nákyp"
     url: "tvarohovy-nakyp"
   -
+    name: "Rychlý koláč s ovocem"
+    url: "rychly-kolac-s-ovocem"
+  -
     name: "Utopence od dědy"
     url: "utopence-od-dedy"
