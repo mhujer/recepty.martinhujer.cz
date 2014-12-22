@@ -19,7 +19,5 @@ layout: recipes
 - nalít polovinu těsta na vysypaný plech, poklást ovocem a přelít druhou polovinou těsta
 - péct ve středně vyhřáté troubě 45 minut
 
-Těsta bylo málo, takže druhá poloviny na přelití nezbyla
-![Před pečením](/fotky/tvarohovy-nakyp-1.jpg)
+Těsta bylo málo (nebo jsem měl moc velký pekáč), takže druhá poloviny na přelití nezbyla.
 
-![Upečeno](/fotky/tvarohovy-nakyp-2.jpg)
