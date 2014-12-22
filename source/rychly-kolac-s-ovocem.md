@@ -6,9 +6,9 @@ layout: recipes
 ### Suroviny
 - 1 sklenice polohrubé mouky
 - 1 sklenice hrubé mouky
-- 1 sklenice cukru
+- ½ sklenice cukru
 - ½ prášku do pečiva
-- 1/2 sklenice oleje
+- ½ sklenice oleje
 - 1 sklenice mléka
 - 1 vejce
 - ovoce
