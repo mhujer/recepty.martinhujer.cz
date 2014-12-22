@@ -26,3 +26,6 @@ menu:
   -
     name: "Cuketový nákyp"
     url: "cuketovy-nakyp"
+  -
+    name: "Šunkafleky"
+    url: "sunkafleky"
