@@ -29,3 +29,6 @@ menu:
   -
     name: "Šunkafleky"
     url: "sunkafleky"
+  -
+    name: "Knedlíky plněné uzeným se zelím"
+    url: "knedliky-plnene-uzenym"
