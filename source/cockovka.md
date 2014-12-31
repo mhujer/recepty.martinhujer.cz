@@ -4,19 +4,21 @@ layout: recipes
 ---
 
 ### Suroviny
-- 250 g čočky
+- 250 g čočky (nebo z 500 g pro celou rodinu a 2× tolik přísad)
 - 2 hřebíčky
 - malá cibule
 - stroužek česneku
 - majoránka
 - saturejka
+- pepř mletý
 - 4 lžičky cukru
-- 6 lžiček octa
-- 6 lžiček soli
+- 4 lžičky octa
+- 2-3 lžičky soli
 
 ### Postup
-- přebrat a přes noc namočit čočku s hřebíčky
-- vařit s cibulí na kostičky, utřeným česnekem, majoránkou a saturejkou
-- ochutit cukrem a octem
+- přebrat čočku - můžou tam být kamínky!
+- přes noc namočit v hrnci s hřebíčky
+- vařit s cibulí na kostičky, utřeným česnekem, majoránkou, saturejkou a pepřem
+- ochutit cukrem a octem (přidávat postupně, podle chuti)
 - po změknutí přidat sůl
-- rozkvrdlat
+- rozkvrdlat (takže není potřeba zahušťovat jíškou)
