@@ -24,6 +24,9 @@ menu:
     name: "Čočkovka"
     url: "cockovka"
   -
+    name: "Brokolicový krém"
+    url: "brokolicovy-krem"
+  -
     name: "Cuketový nákyp"
     url: "cuketovy-nakyp"
   -
