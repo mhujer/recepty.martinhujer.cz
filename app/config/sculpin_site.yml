@@ -41,3 +41,6 @@ menu:
   -
     name: "Italské risotto"
     url: "italske-risotto"
+  -
+    name: "Plněné žampiony"
+    url: "plnene-zampiony"
