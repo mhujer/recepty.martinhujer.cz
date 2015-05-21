@@ -27,6 +27,9 @@ layout: recipes
 - necháme ještě chvíli povařit
 - podáváme s opečenou bagetou (nebo jen tak)
 
+
+*Pozn.: květákový krém jde udělat úplně stejně, jen se tam navíc dá pár brambor, kmín a třeba bazalka.*
+
 ![Rozpracovaná brokolice](/fotky/brokolicovy-krem-1.jpg)
 
 ![V hrnci](/fotky/brokolicovy-krem-2.jpg)
