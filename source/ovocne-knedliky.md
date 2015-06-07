@@ -8,6 +8,7 @@ layout: recipes
  - 200 g polohrubé mouky
  - 1 žloutek
  - špetka soli
+ - 50 g rozpuštěného másla (do těsta)
  - trochu mléka – aby bylo těsto tak akorát na rozválení
  - ovoce
 
