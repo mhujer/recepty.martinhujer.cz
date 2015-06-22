@@ -36,6 +36,9 @@ menu:
     name: "Šunkafleky"
     url: "sunkafleky"
   -
+    name: "Filé"
+    url: "file"
+  -
     name: "Knedlíky plněné uzeným se zelím"
     url: "knedliky-plnene-uzenym"
   -
