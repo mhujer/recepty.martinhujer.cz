@@ -39,6 +39,9 @@ menu:
     name: "Filé"
     url: "file"
   -
+    name: "Kuře na paprice"
+    url: "kure-na-paprice"
+  -
     name: "Knedlíky plněné uzeným se zelím"
     url: "knedliky-plnene-uzenym"
   -
