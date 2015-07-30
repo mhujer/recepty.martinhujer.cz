@@ -14,11 +14,12 @@ layout: recipes
 - brokolici rozebereme na malé růžičky
 - košťál nakrájíme na kousky, aby se rychleji uvařil
   - *víte že vnitřek chutná jako kedlubna?*
-- dáme vařit do vody (čím méně vody, tím lépe - jen aby byla brokolice ponořená)
+- orestujeme cibulku a česnek
+- přidáme brokolici a vodu (čím méně vody, tím lépe - jen aby byla brokolice ponořená)
   - *Tip: Pokud si vodu uvaříme v rychlovarce, tak se nám to začne vařit dříve*
-- přidáme nakrájenou cibuli a česnek (příště je zkusím na začátku orestovat na oleji)
 - přidáme polévkovou zeleninu
   - my máme v mrazáku předpřipravenou zeleninu do polévky, jde nahradit zeleninovým bujónem po dovaření brokolice
+- *Varianta: Můžete přidat i jednu nebo dvě papriky, zvýrazní to chuť*
 - vaříme 15 - 20 minut
 - rozmixujeme tyčovým mixérem
 - zase začneme vařit
