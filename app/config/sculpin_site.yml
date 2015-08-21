@@ -50,3 +50,6 @@ menu:
   -
     name: "Plněné žampiony"
     url: "plnene-zampiony"
+  -
+    name: "Špenátový quiche"
+    url: "spenatovy-quiche"
