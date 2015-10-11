@@ -33,6 +33,9 @@ menu:
     name: "Mrkvový krém"
     url: "mrkvovy-krem"
   -
+    name: "Kuřecí vývar"
+    url: "kureci-vyvar"
+  -
     name: "Cuketový nákyp"
     url: "cuketovy-nakyp"
   -
