@@ -30,6 +30,9 @@ menu:
     name: "Brokolicový krém"
     url: "brokolicovy-krem"
   -
+    name: "Mrkvový krém"
+    url: "mrkvovy-krem"
+  -
     name: "Cuketový nákyp"
     url: "cuketovy-nakyp"
   -
