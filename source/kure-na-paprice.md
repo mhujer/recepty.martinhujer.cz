@@ -31,3 +31,5 @@ layout: recipes
 - maso rozkrájíme na trochu menší kusy a vrátíme zpět
 - necháme prohřát
 - podáváme s rýží
+
+![Servírujeme](/fotky/kure-na-paprice-1.jpg)
