@@ -21,3 +21,5 @@ layout: recipes
 - pečeme v troubě do zlatova
 
 ![Upečeno](/fotky/sunkafleky-1.jpg)
+
+![Servírujeme](/fotky/sunkafleky-2.jpg)
