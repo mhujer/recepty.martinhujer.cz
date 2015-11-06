@@ -65,3 +65,6 @@ menu:
   -
     name: "Celerová pomazánka"
     url: "celerova-pomazanka"
+  -
+    name: "Nivová pomazánka"
+    url: "nivova-pomazanka"
