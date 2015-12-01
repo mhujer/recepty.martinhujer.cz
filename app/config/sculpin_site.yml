@@ -74,3 +74,6 @@ menu:
   -
     name: "Nivová pomazánka"
     url: "nivova-pomazanka"
+  -
+    name: "Kuřecí či vepřové řízky"
+    url: "rizky"
