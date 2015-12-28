@@ -80,3 +80,6 @@ menu:
   -
     name: "Bramborový salát"
     url: "bramborovy-salat"
+  -
+    name: "Svařák"
+    url: "svarak"
