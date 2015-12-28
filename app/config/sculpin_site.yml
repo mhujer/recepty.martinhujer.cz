@@ -77,3 +77,6 @@ menu:
   -
     name: "Kuřecí či vepřové řízky"
     url: "rizky"
+  -
+    name: "Bramborový salát"
+    url: "bramborovy-salat"

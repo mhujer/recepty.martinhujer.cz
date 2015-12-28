@@ -30,6 +30,7 @@ layout: recipes
 - při vyndávání z pánve nechat okapat olej
 - mezitím si uvaříme brambory a doporučuji k tomu přidat i mrkev - nečekaně dobře se hodí
 - řízky při podávání doporučuji lehce pokapat citrónem
+- doporučuji podávat s [Bramborovým salátem](/bramborovy-salat/)
 
 ![Obaleno](/fotky/rizky-1.jpg)
 
