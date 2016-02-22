@@ -83,3 +83,6 @@ menu:
   -
     name: "Svařák"
     url: "svarak"
+  -
+    name: "Štrúdl"
+    url: "strudl"
