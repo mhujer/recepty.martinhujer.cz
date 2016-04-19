@@ -86,3 +86,6 @@ menu:
   -
     name: "Štrúdl"
     url: "strudl"
+  -
+    name: "Cizrnová pomazánka"
+    url: "cizrnova-pomazanka"
