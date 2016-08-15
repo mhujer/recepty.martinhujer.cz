@@ -9,7 +9,7 @@ layout: recipes
 - 2 stroužky česneku
 - 2 vejce
 - 200 g nastrouhaného eidamu
-- 250 g polohrubé mouky (**pozn.: zkusit míň mouky, dát místo ní krupici**)
+- 250 g polohrubé mouky (**pozn.: zkusit míň mouky, dát místo ní krupici nebo ještě lépe jemné ovesné vločky**)
 - půl prášku do pečiva
 - 2 lžíce oleje
 - mletý pepř
