@@ -60,6 +60,9 @@ menu:
     name: "Italské risotto"
     url: "italske-risotto"
   -
+    name: "Kuře na kari"
+    url: "kure-na-kari"
+  -
     name: "Plněné žampiony"
     url: "plnene-zampiony"
   -
