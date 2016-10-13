@@ -9,7 +9,7 @@ layout: recipes
 - okurka
 - olivový olej
 - sůl, pepř
-- krevety - vzhledem k tomu, že si v mořských plodech tolik nevěřím, tak kupuju už uvařené (ty červené - langostino cocido). (případně druhá varianta jsou syrové - langostino crudo - mají šedivou barvu) 
+- krevety - vzhledem k tomu, že si v mořských plodech tolik nevěřím, tak kupuju už uvařené chlazené (ty červené - langostino cocido, stojí €10 za kilo). (případně druhá varianta jsou syrové - langostino crudo - mají šedivou barvu) . St
 
 ### Postup
 
