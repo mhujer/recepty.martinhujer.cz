@@ -104,3 +104,6 @@ menu:
   -
     name: "Salát s krevetami"
     url: "salat-s-krevetami"
+  -
+    name: "Salsa de tomate"
+    url: "salsa-de-tomate"
