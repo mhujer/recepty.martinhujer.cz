@@ -9,6 +9,7 @@ Výsledkem bude salsa, která jde nabírat nakrájenou bagetou.
 - rajčata
 - česnek
 - pepř, sůl
+- cukr
 - olivový olej
 - bageta
 
@@ -19,5 +20,5 @@ Výsledkem bude salsa, která jde nabírat nakrájenou bagetou.
 - nakrájíme je na kousky
 - dáme do mixéru - ideální je "blender", ale jde to v hluboké nádobě ponorným mixérem
 - mixujeme najemno
-- přidáme olej, prolisovaný česnek, pepř a sůl a mixujeme
+- přidáme olej, prolisovaný česnek, cukr, pepř a sůl a mixujeme
 - pokud je omáčka moc řídká, můžeme pro zahuštění do mixéru natrhat bagetu, nechat ji trochu namočit a rozmixovat do jemna
