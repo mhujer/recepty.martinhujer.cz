@@ -110,3 +110,6 @@ menu:
   -
     name: "Bruschetta s rajčaty"
     url: "bruschetta-s-rajcaty"
+  -
+    name: "Guláš"
+    url: "gulas"
