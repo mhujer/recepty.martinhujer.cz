@@ -1,6 +1,5 @@
 ---
 title: Brambory s tvarohem
-layout: recipes
 categories: main
 ---
 

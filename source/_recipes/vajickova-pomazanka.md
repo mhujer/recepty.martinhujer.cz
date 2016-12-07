@@ -1,6 +1,5 @@
 ---
 title: Vajíčková pomazánka
-layout: recipes
 categories: spread
 ---
 

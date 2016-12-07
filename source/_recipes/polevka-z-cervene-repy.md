@@ -1,6 +1,5 @@
 ---
 title: Polévka z červené řepy
-layout: recipes
 categories: soup
 ---
 

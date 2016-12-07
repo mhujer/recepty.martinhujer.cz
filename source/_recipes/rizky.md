@@ -1,6 +1,5 @@
 ---
 title: Kuřecí či vepřové řízky
-layout: recipes
 categories: main
 ---
 

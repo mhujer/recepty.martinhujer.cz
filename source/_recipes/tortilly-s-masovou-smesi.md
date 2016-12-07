@@ -1,6 +1,5 @@
 ---
 title: Tortilly s masovou směsí
-layout: recipes
 categories: main
 ---
 

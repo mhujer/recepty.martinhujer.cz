@@ -1,6 +1,5 @@
 ---
 title: Bramborový salát
-layout: recipes
 categories: main
 ---
 

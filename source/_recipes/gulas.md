@@ -1,6 +1,5 @@
 ---
 title: Guláš
-layout: recipes
 categories: main
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Štrúdl
-layout: recipes
 categories: dessert
 ---
 

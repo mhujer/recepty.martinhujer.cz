@@ -1,6 +1,5 @@
 ---
 title: Směs s kuřecím masem a rajčaty
-layout: recipes
 categories: main
 ---
 

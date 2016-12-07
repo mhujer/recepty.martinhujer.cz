@@ -1,6 +1,5 @@
 ---
 title: Knedlíky plněné uzeným se zelím
-layout: recipes
 categories: main
 ---
 

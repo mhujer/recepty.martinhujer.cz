@@ -1,6 +1,5 @@
 ---
 title: Cizrnová pomazánka
-layout: recipes
 categories: spread
 ---
 

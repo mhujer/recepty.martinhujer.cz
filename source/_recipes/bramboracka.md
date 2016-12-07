@@ -1,6 +1,5 @@
 ---
 title: Bramboračka
-layout: recipes
 categories: soup
 ---
 

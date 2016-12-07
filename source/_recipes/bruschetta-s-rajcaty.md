@@ -1,6 +1,5 @@
 ---
 title: Bruschetta s rajčaty
-layout: recipes
 categories: spread
 ---
 

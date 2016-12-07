@@ -1,6 +1,5 @@
 ---
 title: Filé
-layout: recipes
 categories: main
 ---
 

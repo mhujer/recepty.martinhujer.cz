@@ -1,6 +1,5 @@
 ---
 title: Italské risotto
-layout: recipes
 categories: main
 ---
 

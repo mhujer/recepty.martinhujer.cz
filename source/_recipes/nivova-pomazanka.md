@@ -1,6 +1,5 @@
 ---
 title: Nivová pomazánka
-layout: recipes
 categories: spread
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Ovocné knedlíky
-layout: recipes
 categories: main-sweet
 ---
 

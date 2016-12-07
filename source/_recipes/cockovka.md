@@ -1,6 +1,5 @@
 ---
 title: Čočkovka
-layout: recipes
 categories: soup
 ---
 

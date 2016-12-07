@@ -1,6 +1,5 @@
 ---
 title: Špenátový quiche
-layout: recipes
 categories: main
 ---
 

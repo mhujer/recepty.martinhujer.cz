@@ -1,6 +1,5 @@
 ---
 title: Celerová pomazánka
-layout: recipes
 categories: spread
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Kuřecí vývar
-layout: recipes
 categories: soup
 ---
 

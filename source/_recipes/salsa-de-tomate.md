@@ -1,6 +1,5 @@
 ---
 title: Salsa de tomate
-layout: recipes
 categories: dessert
 ---
 

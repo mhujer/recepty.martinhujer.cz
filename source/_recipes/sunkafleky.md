@@ -1,6 +1,5 @@
 ---
 title: Šunkafleky
-layout: recipes
 categories: main
 ---
 

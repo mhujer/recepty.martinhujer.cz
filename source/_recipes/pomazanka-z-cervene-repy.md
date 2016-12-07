@@ -1,6 +1,5 @@
 ---
 title: Pomazánka z červené řepy
-layout: recipes
 categories: spread
 ---
 

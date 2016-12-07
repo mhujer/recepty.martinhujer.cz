@@ -1,6 +1,5 @@
 ---
 title: Mrkvový krém
-layout: recipes
 categories: soup
 ---
 

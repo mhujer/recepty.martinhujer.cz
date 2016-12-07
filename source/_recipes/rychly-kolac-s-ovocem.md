@@ -1,6 +1,5 @@
 ---
 title: Rychlý koláč s ovocem
-layout: recipes
 categories: dessert
 ---
 

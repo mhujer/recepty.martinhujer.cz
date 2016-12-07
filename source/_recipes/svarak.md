@@ -1,6 +1,5 @@
 ---
 title: Svařák
-layout: recipes
 categories: misc
 ---
 

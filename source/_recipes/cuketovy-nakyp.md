@@ -1,6 +1,5 @@
 ---
 title: Cuketový nákyp
-layout: recipes
 categories: main
 ---
 

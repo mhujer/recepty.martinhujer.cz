@@ -1,6 +1,5 @@
 ---
 title: Utopence od dědy
-layout: recipes
 categories: misc
 ---
 

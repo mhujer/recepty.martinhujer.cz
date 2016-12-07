@@ -1,6 +1,5 @@
 ---
 title: Bublanina
-layout: recipes
 categories: dessert
 ---
 

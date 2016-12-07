@@ -1,6 +1,5 @@
 ---
 title: Avokádová pomazánka
-layout: recipes
 categories: spread
 ---
 

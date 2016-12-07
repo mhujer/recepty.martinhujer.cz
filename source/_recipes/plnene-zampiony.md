@@ -1,6 +1,5 @@
 ---
 title: Plněné žampiony
-layout: recipes
 categories: main
 ---
 

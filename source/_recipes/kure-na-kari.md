@@ -1,6 +1,5 @@
 ---
 title: Kuře na kari
-layout: recipes
 categories: main
 ---
 

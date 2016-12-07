@@ -1,6 +1,5 @@
 ---
 title: Salát s krevetami
-layout: recipes
 categories: main
 ---
 

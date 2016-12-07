@@ -1,6 +1,5 @@
 ---
 title: Tvarohový nákyp
-layout: recipes
 categories: main-sweet
 ---
 

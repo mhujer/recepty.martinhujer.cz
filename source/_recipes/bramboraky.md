@@ -1,6 +1,5 @@
 ---
 title: Bramboráky
-layout: recipes
 categories: main
 ---
 

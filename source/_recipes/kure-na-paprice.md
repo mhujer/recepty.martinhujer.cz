@@ -1,6 +1,5 @@
 ---
 title: Kuře na paprice
-layout: recipes
 categories: main
 ---
 
