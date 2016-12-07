@@ -16,6 +16,8 @@ categories: christmas-cookies
 - necháme v chladu (v lednici) odpočinout
 - vyválíme válečky
 - nakrájíme na malé kousky
-- vytvarujeme rohlíčky
+- vytvarujeme rohlíčky a dáváme na plech pokrytý pečicím papírem
 - pečeme
 - ještě horké obalíme ve vanilkovém cukru (nebo cukru moučka)
+
+![Vanilkové rohlíčky](/fotky/vanilkove-rohlicky.jpg)
