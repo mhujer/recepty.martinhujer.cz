@@ -1,3 +1,11 @@
 sculpin_content_types:
     posts:
         enabled: false
+    recipes:
+        type: path
+        permalink: :basename/
+        singular_name: recipe
+        layout: recipes
+        enabled: true
+        taxonomies:
+            - categories

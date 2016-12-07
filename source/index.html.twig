@@ -1,12 +1,31 @@
 ---
 layout: base
 title: Seznam receptů
+use: [recipes, recipes_categories]
 ---
 
-<ul>
-    {% for rec in site.menu %}
-        <li>
-            <a href="{{ site.url }}/{{ rec.url }}">{{ rec.name }}</a>
-        </li>
-    {% endfor %}
-</ul>
+{% set rendered = [] %}
+
+{% for category in site.categories %}
+	<h2>{{ category.name }}</h2>
+	<ul>
+		{% for tag,recipes in data.recipes_categories %}
+			{% if tag == category.slug %}
+				{% for recipe in recipes %}
+					<li>
+						<a href="{{ recipe.url }}">{{ recipe.title }}</a>
+					</li>
+					{% set rendered = rendered|merge([recipe.url]) %}
+				{% endfor %}
+			{% endif %}
+		{% endfor %}
+	</ul>
+{% endfor %}
+
+{% for recipe in data.recipes %}
+	{% if recipe.url not in rendered %}
+		<li>
+			<a href="{{ site.url }}./{{ recipe.url }}">{{ recipe.title }}</a>
+		</li>
+	{% endif %}
+{% endfor %}

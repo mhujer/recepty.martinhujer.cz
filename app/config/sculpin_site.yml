@@ -1,124 +1,21 @@
-# The contents of this file are parsed and made available as
-# via `site.*`. So for example, {{ site.title }} can be used
-# in a template to get the contents of the `title` key.
 title: Martinovy Recepty
-google_analytics_tracking_id:
 
-menu:
-  -
-    name: "Avokádová pomazánka"
-    url: "avokadova-pomazanka"
-  -
-    name: "Bublanina"
-    url: "bublanina"
-  -
-    name: "Bramboráky"
-    url: "bramboraky"
-  -
-    name: "Ovocné knedlíky"
-    url: "ovocne-knedliky"
-  -
-    name: "Tvarohový nákyp"
-    url: "tvarohovy-nakyp"
-  -
-    name: "Rychlý koláč s ovocem"
-    url: "rychly-kolac-s-ovocem"
-  -
-    name: "Utopence od dědy"
-    url: "utopence-od-dedy"
-  -
-    name: "Čočkovka"
-    url: "cockovka"
-  -
-    name: "Brokolicový krém"
-    url: "brokolicovy-krem"
-  -
-    name: "Mrkvový krém"
-    url: "mrkvovy-krem"
-  -
-    name: "Špenátový krém"
-    url: "spenatovy-krem"
-  -
-    name: "Kuřecí vývar"
-    url: "kureci-vyvar"
-  -
-    name: "Cuketový nákyp"
-    url: "cuketovy-nakyp"
-  -
-    name: "Šunkafleky"
-    url: "sunkafleky"
-  -
-    name: "Filé"
-    url: "file"
-  -
-    name: "Kuře na paprice"
-    url: "kure-na-paprice"
-  -
-    name: "Knedlíky plněné uzeným se zelím"
-    url: "knedliky-plnene-uzenym"
-  -
-    name: "Italské risotto"
-    url: "italske-risotto"
-  -
-    name: "Kuře na kari"
-    url: "kure-na-kari"
-  -
-    name: "Plněné žampiony"
-    url: "plnene-zampiony"
-  -
-    name: "Špenátový quiche"
-    url: "spenatovy-quiche"
-  -
-    name: "Brambory s tvarohem"
-    url: "brambory-s-tvarohem"
-  -
-    name: "Celerová pomazánka"
-    url: "celerova-pomazanka"
-  -
-    name: "Nivová pomazánka"
-    url: "nivova-pomazanka"
-  -
-    name: "Kuřecí či vepřové řízky"
-    url: "rizky"
-  -
-    name: "Bramborový salát"
-    url: "bramborovy-salat"
-  -
-    name: "Svařák"
-    url: "svarak"
-  -
-    name: "Štrúdl"
-    url: "strudl"
-  -
-    name: "Cizrnová pomazánka"
-    url: "cizrnova-pomazanka"
-  -
-    name: "Pomazánka z červené řepy"
-    url: "pomazanka-z-cervene-repy"
-  -
-    name: "Vajíčková pomazánka"
-    url: "vajickova-pomazanka"
-  -
-    name: "Tortilly s masovou směsí"
-    url: "tortilly-s-masovou-smesi"
-  -
-    name: "Salát s krevetami"
-    url: "salat-s-krevetami"
-  -
-    name: "Salsa de tomate"
-    url: "salsa-de-tomate"
-  -
-    name: "Bruschetta s rajčaty"
-    url: "bruschetta-s-rajcaty"
-  -
-    name: "Guláš"
-    url: "gulas"
-  -
-    name: "Polévka z červené řepy"
-    url: "polevka-z-cervene-repy"
-  -
-    name: "Bramboračka"
-    url: "bramboracka"
-  -
-    name: "Směs s kuřecím masem a rajčaty"
-    url: "smes-s-kurecim-masem-a-rajcaty"
+categories:
+    -
+        name: Polévky
+        slug: soup
+    -
+        name: Hlavní jídla
+        slug: main
+    -
+        name: Hlavní jídla - sladká
+        slug: main-sweet
+    -
+        name: Pomazánky
+        slug: spread
+    -
+        name: Dezerty
+        slug: dessert
+    -
+        name: Ostatní
+        slug: misc
