@@ -17,6 +17,9 @@ categories:
         name: Dezerty
         slug: dessert
     -
+        name: Nápoje
+        slug: drink
+    -
         name: Ostatní
         slug: misc
     -
