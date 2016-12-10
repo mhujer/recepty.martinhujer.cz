@@ -23,7 +23,7 @@ use: [recipes, recipes_categories]
 {% endfor %}
 
 {% for recipe in data.recipes %}
-	{% if recipe.url not in rendered %}
+	{%- if recipe.url not in rendered %}
 		<li>
 			<a href="{{ site.url }}./{{ recipe.url }}">{{ recipe.title }}</a>
 		</li>
