@@ -14,7 +14,7 @@ categories: main
 ### Postup
 - v hrnci (ideálně papiňáku) osmažíme cibulku (tím, že ji je hodně, tak to bude trvat déle)
 - přidáme na kostky nakrájené maso a orestujeme
-- přidáme sladkou i pálivou papriku a česnek, a ještě chvilinku restujeme (paprika i česnek se může jen chvilku, aby to nehořklo)
+- přidáme sladkou i pálivou papriku a česnek, a ještě chvilinku restujeme (paprika i česnek se může jen chvilku, aby to nezhořklo)
 - přidáme majoránku, sůl, pepř a kmín
 - zalijeme vodou
 - můžeme přidat rajský protlak pro barvu

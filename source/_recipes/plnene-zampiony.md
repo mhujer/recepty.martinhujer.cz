@@ -4,24 +4,24 @@ categories: main
 ---
 
 ### Suroviny
-- žampiony (500g pro 5 lidí bylo málo)
+- žampiony (500 g pro 5 lidí bylo málo)
 - niva / balkánský sýr
 - šunka
 - 1 vejce
 - cibule
-- černek
+- česnek
 - koření
 
 ### Postup
 - omýt a oloupat žampiony
 - odlomit nohy
-- vydlabat vnitřek
-- nohy a vnitřky rozmixovat tyčovým mixérem (nebo na jemno pokrájet)
+- vnitřek vydlabat čajovou lžičkou 
+- nohy a vnitřky nakrájet najemno
 - osmažit cibulku, přidat šunku na nudličky
 - trochu opéct
 - přidat žampióny na kousky a česnek
 - podusit a vypnout
-- vmíchat 1 vejde a natrouhanou nivu
+- vmíchat 1 vejde a nastrouhanou nivu
 - osolit jenom trochu nebo vůbec, záleží, jak je slaná niva.
 - naplnit kloboučky
 - položit na pečicí papír a dát do trouby
