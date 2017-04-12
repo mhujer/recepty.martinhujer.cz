@@ -18,3 +18,5 @@ categories: main
 - smícháme s uvařenou rýží a tuňákem
 - urovnáme do formy a zalijeme rozšlehanými vajíčky (případně můžeme vajíčkem zalít předtím, pořádně promíchat a pak teprve urovnávat)
 - zapečeme
+
+![Upečeno](/fotky/ryzovy-quiche-s-tunakem-1.jpg)
