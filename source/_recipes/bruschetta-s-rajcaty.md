@@ -20,3 +20,5 @@ categories: spread
 - do mísy k nim přidáme olivový olej, prolisovaný česnek, balsamico, pepř, sůl a najemno nasekanou bazalku
 - na pánvi opečeme bagetu (případně v troubě na plechu, tam ji můžeme i zeshora potřít olejem)
 - necháme proležet
+
+![Servírujeme](/fotky/bruschetta-s-rajcaty-1.jpg)
