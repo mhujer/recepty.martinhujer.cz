@@ -9,6 +9,7 @@ categories: main
 - listový salát (ledový nebo něco podobného)
 - rajčata
 - kysaná smetana
+- (volitelně) slunčnicová semínka
 - sůl, pepř
 - olivový olej, balsamico
 
@@ -24,8 +25,10 @@ categories: main
 - lehce ochutit olivovým olejem a balsamicem
 
 ### Postup
+- (volitelně) na pánvi opéct slunečnicová semínky
 - rajčata nakrájet na malé kostičky do misky
 - na pánvi z obou stran opečeme tortilu
 - naložíme maso, salát, rajčata a trochu kysané smetany
+- (volitelně) posypat opečenými slunečnicovými semínky
 - zarolujeme
 - pokud nám rozumně drží zarolované, tak je pak ještě všechny můžeme lehce opéct na pánvi
