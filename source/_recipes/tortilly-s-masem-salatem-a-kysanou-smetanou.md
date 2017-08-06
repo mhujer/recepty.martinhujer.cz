@@ -1,5 +1,5 @@
 ---
-title: Tortilly s masem, salátem a kysanout smetanou
+title: Tortilly s masem, salátem a kysanou smetanou
 categories: main
 ---
 
@@ -32,3 +32,5 @@ categories: main
 - (volitelně) posypat opečenými slunečnicovými semínky
 - zarolujeme
 - pokud nám rozumně drží zarolované, tak je pak ještě všechny můžeme lehce opéct na pánvi
+
+![Tortilly s masem, salátem a kysanou smetanou](/fotky/tortilly-s-masem-salatem-a-kysanou-smetanou.jpg)
