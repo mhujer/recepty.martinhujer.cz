@@ -27,7 +27,7 @@ categories: main
 - den předem uvařit brambory a nechat je vystydnout
 - uvařené brambory nastrouhat najemno
 - dát si vařit vodu, kam pak dáme knedlíky
-- přidat krupici a hrubou mouku (v poměru 1:2)
+- přidat krupici a hrubou mouku (v poměru 1:2, množství podle brambor)
 - kypřící prášek (zamíchat do mouky)
 - sůl
 - přidat 2 vajíčka - ve chvíli, kdy se kypřící prášek namočí to těsno začne "tát", takže pak už to chce pracovat rychle a mít všecko připravené
