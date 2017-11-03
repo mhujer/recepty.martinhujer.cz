@@ -1,17 +1,20 @@
 ---
-title: Filé
+title: Treska nebo filé na pánvi
 categories: main
 ---
 
 ### Suroviny
-- filé kostky/kolečka
+- mražená treska nebo filé kostky/kolečka
 - drcený kmín
 - mletá paprika
+- sůl
 - česnek
 - brambory
 
 ### Postup
+- tresku nebo filé necháme rozmrznout a okapat
 - filé z obou stran potřeme prolisovaným česnekem
-- a posypeme paprikou a kmínem
-- smažíme na pánvi na trošce oleje
-- případně trochu podlijeme vodou
+- a posypeme paprikou, kmínem a lehce osolíme
+- smažíme na pánvi na másle (případně oleji)
+- (můžeme trochu podlít vodou, ale ono ji to asi dost pustí samo)
+- podáváme s vařenými bramborami nebo kaší
