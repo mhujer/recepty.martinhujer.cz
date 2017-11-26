@@ -21,3 +21,5 @@ categories: soup
 - přidáme koření
 - chvíli vaříme
 - přidáme krájená rajčata a chvíli povaříme
+
+![Polévka z červené čočky](/fotky/polevka-z-cervene-cocky.jpg)
