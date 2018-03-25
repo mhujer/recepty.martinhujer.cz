@@ -35,7 +35,7 @@ categories: main
 - přidat mouku smíchanou s kypřícím práškem
 - přidat sůl a koření
 - pořádně promíchat
-- pečící papír potřít olivovým olejem a lžicí vytvořit tenké placičky (cca 7 mm)
+- pečící papír potřít olivovým olejem (**nezapomenout, jinak se to přilepí!**) a lžicí vytvořit tenké placičky (cca 7 mm)
 - péct v troubě
 - podávat s dresinkem
 
@@ -44,3 +44,10 @@ categories: main
 - smíchat v misce se zakysanou smetanou
 - přidat česnek, petržel, pepř, oregano a tymián
 - pořádně promíchat
+
+
+![Dýňové placičky - před pečením](/fotky/dynove-placicky-1.jpg)
+
+![Dýňové placičky - servírujeme](/fotky/dynove-placicky-2.jpg)
+
+![Dýňové placičky - detail](/fotky/dynove-placicky-3.jpg)
