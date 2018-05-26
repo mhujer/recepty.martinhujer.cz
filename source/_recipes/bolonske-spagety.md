@@ -18,7 +18,7 @@ categories: main
 
 ### Postup
 - na oleji osmažíme najemno nakrájenou cibulku
-- přidáme na jedno nakrájenou mrkev, a ještě chvíli pomalu opékáme
+- přidáme na jemno nakrájenou mrkev, a ještě chvíli pomalu opékáme
 - umeleme maso (nebo koupíme umleté)
 - maso v míse osolíme, opepříme, přidáme prolisovaný česnek a promícháme
 - maso dáme na pánev a zprudka opečeme
