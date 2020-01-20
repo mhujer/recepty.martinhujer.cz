@@ -21,7 +21,7 @@ categories: main
 - trochu opéct
 - přidat žampióny na kousky a česnek
 - podusit a vypnout
-- vmíchat 1 vejde a nastrouhanou nivu
+- vmíchat 1 vejce a nastrouhanou nivu
 - osolit jenom trochu nebo vůbec, záleží, jak je slaná niva.
 - naplnit kloboučky
 - položit na pečicí papír a dát do trouby
