@@ -23,7 +23,7 @@ categories: soup
 - vaříme další půlhodinu
 - vyndáme kost s masem a obereme ho
 - obrané maso nakrájíme na kousky a vrátíme zpět
-- přidáme česnek a nudle
+- přidáme česnek a [nudle (recept)](/nudle-do-polevky/)
 - ještě chvíli povaříme a podáváme
 
 
