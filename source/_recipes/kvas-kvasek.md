@@ -7,7 +7,7 @@ Na založení kvas (kvásku) existuje spoustu návodů, různě komplikovaných.
 
 
 ### Suroviny
-- celozrnná žitná mouka hladká (čím víc celozrnná, tím líp)
+- bio celozrnná žitná mouka hladká (čím víc bio a celozrnná, tím líp)
 - voda
 - váha
 
