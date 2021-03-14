@@ -23,5 +23,8 @@ categories:
         name: Ostatní
         slug: misc
     -
+        name: Pečivo
+        slug: bread
+    -
         name: Vánoční cukroví
         slug: christmas-cookies
