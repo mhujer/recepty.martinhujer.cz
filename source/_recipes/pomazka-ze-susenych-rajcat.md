@@ -1,5 +1,5 @@
 ---
-title: Pomazánka ze sušenách rajčat
+title: Pomazánka ze sušených rajčat
 categories: spread
 ---
 
