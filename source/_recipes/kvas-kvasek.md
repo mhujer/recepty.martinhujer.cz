@@ -19,6 +19,6 @@ Na založení kvas (kvásku) existuje spoustu návodů, různě komplikovaných.
 - přidat 100 g mouky, 100 g vlažené vody a pořádně rozmíchat
 - zase nechat 24 h v teple
 - vyhazování a dokrmování kvásku zopakovat aspoň třikrát
-- pak už můžete zkusit upéct chleba (třeba pšenično-žitný nebo 100 % žitný)
+- pak už můžete zkusit upéct chleba (třeba [pšenično-žitný](/psenicno-zitny-chleb/) nebo [celozrnný žitný](/zitny-chleb/))
 
 ![Kvas kvasí](/fotky/kvas-1.jpg)
