@@ -4,9 +4,9 @@ categories: dessert
 ---
 
 ### Suroviny
-- 100 g másla
+- 100 g másla (případně stačí 75 g)
 - 1 tvaroh (250 g)
-- 180 g cukru
+- 180 g cukru (případně stačí 100 g)
 - 10 g vanilkový cukr
 - 350 g hrubé mouky
 - 200 g mléka
