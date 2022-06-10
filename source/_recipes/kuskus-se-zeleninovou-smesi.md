@@ -1,6 +1,6 @@
 ---
 title: Kuskus se zeleninovou směsí
-categories: main
+tags: main
 ---
 
 ### Suroviny

@@ -1,0 +1,14 @@
+{
+  "name": "martinhujer.cz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  },
+  "scripts": {
+    "build": "yarn run eleventy",
+    "builddiff": "yarn run eleventy --output=output_prod",
+    "watch": "yarn run eleventy --serve"
+  }
+}

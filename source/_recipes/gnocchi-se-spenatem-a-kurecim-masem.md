@@ -1,6 +1,6 @@
 ---
 title: Gnocchi se špenátem a kuřecím masem
-categories: main
+tags: main
 ---
 
 ### Suroviny

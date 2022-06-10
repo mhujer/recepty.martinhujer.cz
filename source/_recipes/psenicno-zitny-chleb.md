@@ -1,6 +1,6 @@
 ---
 title: Pšenično-žitný chléb (pecen)
-categories: bread
+tags: bread
 ---
 
 

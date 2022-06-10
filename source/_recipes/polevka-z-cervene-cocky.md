@@ -1,6 +1,6 @@
 ---
 title: Polévka z červené čočky
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

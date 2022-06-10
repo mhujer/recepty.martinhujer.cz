@@ -1,6 +1,6 @@
 ---
 title: Bramboračka
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

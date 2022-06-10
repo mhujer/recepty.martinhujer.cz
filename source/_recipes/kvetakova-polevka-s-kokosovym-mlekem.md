@@ -1,6 +1,6 @@
 ---
 title: Květáková polévka s kokosovým mlékem
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

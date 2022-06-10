@@ -1,6 +1,6 @@
 ---
 title: Ptáčková omáčka
-categories: main
+tags: main
 ---
 
 ### Suroviny

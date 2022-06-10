@@ -1,6 +1,6 @@
 ---
 title: Hráškový krém
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

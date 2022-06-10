@@ -1,6 +1,6 @@
 ---
 title: Palačinky
-categories: main
+tags: main
 ---
 
 ### Suroviny

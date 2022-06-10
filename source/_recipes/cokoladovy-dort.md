@@ -1,6 +1,6 @@
 ---
 title: Čokoládový dort s borůvkami
-categories: dessert
+tags: dessert
 ---
 
 ![Čokoládový dort s borůvkami](/fotky/cokoladovy-dort-3.jpg)

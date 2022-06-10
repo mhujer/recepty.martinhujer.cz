@@ -1,6 +1,6 @@
 ---
 title: Langoše z brambor
-categories: main
+tags: main
 ---
 
 ### Suroviny - těsto (dvě až tři porce, 8 ks)

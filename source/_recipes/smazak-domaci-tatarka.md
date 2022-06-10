@@ -1,6 +1,6 @@
 ---
 title: Smažák s domácí tatarkou
-categories: main
+tags: main
 ---
 
 ### Suroviny - smažák

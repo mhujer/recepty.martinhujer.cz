@@ -1,6 +1,6 @@
 ---
 title: Plněné žampiony
-categories: main
+tags: main
 ---
 
 ### Suroviny

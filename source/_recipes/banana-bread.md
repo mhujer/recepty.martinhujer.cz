@@ -1,6 +1,6 @@
 ---
 title: Banana bread
-categories: dessert
+tags: dessert
 ---
 
 Ochutnal jsem ho v [Chocolate District](https://goo.gl/maps/f3uQZYbM1YD2) na Maltě, 

@@ -1,6 +1,6 @@
 ---
 title: Kvas (kvásek)
-categories: bread
+tags: bread
 ---
 
 Na založení kvas (kvásku) existuje spoustu návodů, různě komplikovaných. Nakonec jsem postupoval přibližně podle [PečemPecen.cz](https://www.pecempecen.cz/pece-o-kvas).

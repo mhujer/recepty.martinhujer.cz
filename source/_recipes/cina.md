@@ -1,6 +1,6 @@
 ---
 title: Čína
-categories: main
+tags: main
 ---
 
 ### Suroviny

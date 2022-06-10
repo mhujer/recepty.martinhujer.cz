@@ -1,6 +1,6 @@
 ---
 title: Tvarohová bábovka
-categories: dessert
+tags: dessert
 ---
 
 ### Suroviny

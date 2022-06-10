@@ -1,6 +1,6 @@
 ---
 title: Knedlíky plněné uzeným se zelím
-categories: main
+tags: main
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Kuře na paprice
-categories: main
+tags: main
 ---
 
 ### Suroviny

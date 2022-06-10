@@ -1,6 +1,6 @@
 ---
 title: Cuketový nákyp
-categories: main
+tags: main
 ---
 
 ### Suroviny

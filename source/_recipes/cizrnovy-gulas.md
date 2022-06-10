@@ -1,6 +1,6 @@
 ---
 title: Cizrnový guláš
-categories: main
+tags: main
 ---
 
 ### Suroviny

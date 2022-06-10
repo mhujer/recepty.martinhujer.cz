@@ -1,6 +1,6 @@
 ---
 title: Mrkvové muffiny
-categories: dessert
+tags: dessert
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Pomazánka ze sušených rajčat
-categories: spread
+tags: spread
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Pečené papriky s balkánským sýrem
-categories: main
+tags: main
 ---
 
 ### Suroviny

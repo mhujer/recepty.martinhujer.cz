@@ -1,6 +1,6 @@
 ---
 title: Bublanina
-categories: dessert
+tags: dessert
 ---
 
 ### Suroviny

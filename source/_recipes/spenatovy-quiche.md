@@ -1,6 +1,6 @@
 ---
 title: Špenátový quiche
-categories: main
+tags: main
 ---
 
 ### Suroviny

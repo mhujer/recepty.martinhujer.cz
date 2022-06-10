@@ -1,6 +1,6 @@
 ---
 title: Rajčatová polévka
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Vanilkové rohlíčky
-categories: christmas-cookies
+tags: christmas-cookies
 ---
 
 ### Suroviny

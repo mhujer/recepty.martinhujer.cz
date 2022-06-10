@@ -1,6 +1,6 @@
 ---
 title: Směs s kuřecím masem a rajčaty
-categories: main
+tags: main
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Sýrová omáčka s těstovinami
-categories: main
+tags: main
 ---
 
 ### Suroviny

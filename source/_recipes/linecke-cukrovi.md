@@ -1,6 +1,6 @@
 ---
 title: Linecké cukroví
-categories: christmas-cookies
+tags: christmas-cookies
 ---
 
 ### Suroviny

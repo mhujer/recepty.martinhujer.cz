@@ -1,6 +1,6 @@
 ---
 title: Šneci
-categories: misc
+tags: misc
 ---
 
 Fajn slané zobání třeba pro návštěvu.

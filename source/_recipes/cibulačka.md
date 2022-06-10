@@ -1,6 +1,6 @@
 ---
 title: Cibulačka
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

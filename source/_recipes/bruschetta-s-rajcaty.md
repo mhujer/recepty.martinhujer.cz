@@ -1,6 +1,6 @@
 ---
 title: Bruschetta s rajčaty
-categories: spread
+tags: spread
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Svíčková s celerovým knedlíkem
-categories: main
+tags: main
 ---
 
 ### Suroviny - svíčková

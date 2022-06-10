@@ -1,6 +1,6 @@
 ---
 title: Dušená mrkev
-categories: main
+tags: main
 ---
 
 ### Suroviny

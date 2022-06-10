@@ -1,6 +1,6 @@
 ---
 title: Tortelloni s pestem
-categories: main
+tags: main
 ---
 
 V Lidlu mají dobré chlazené italské těstoviny - Tortelloni. Buď s masem nebo se špenátem a ricottou. Pozor, ať koupíte ty chlazené a ne "sušené".

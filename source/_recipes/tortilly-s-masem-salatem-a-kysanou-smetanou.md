@@ -1,6 +1,6 @@
 ---
 title: Tortilly s masem, salátem a kysanou smetanou
-categories: main
+tags: main
 ---
 
 ### Suroviny

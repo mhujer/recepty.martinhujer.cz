@@ -1,0 +1,53 @@
+---
+title: Seznam receptů
+---
+
+{% set categories = [
+    {
+        name: 'Polévky',
+        slug: 'soup'
+    },
+    {
+        name: 'Hlavní jídla',
+        slug: 'main'
+    },
+    {
+        name: 'Hlavní jídla - sladká',
+        slug: 'main-sweet'
+    },
+    {
+        name: 'Pomazánky',
+        slug: 'spread'
+    },
+    {
+        name: 'Dezerty',
+        slug: 'dessert'
+    },
+    {
+        name: 'Nápoje',
+        slug: 'drink'
+    },
+    {
+        name: 'Ostatní',
+        slug: 'misc'
+    },
+    {
+        name: 'Pečivo',
+        slug: 'bread'
+    },
+    {
+        name: 'Vánoční cukroví',
+        slug: 'christmas-cookies'
+    }
+] %}
+
+{% for category in categories %}
+    <h2>{{ category.name }}</h2>
+    <ul>
+        {% for recipe in collections[category.slug] | sort(false, false, 'fileSlug') %}
+            <li>
+                <a href="{{ recipe.url }}">{{ recipe.data.title }}</a>
+            </li>
+        {%- endfor %}
+    </ul>
+{% endfor %}

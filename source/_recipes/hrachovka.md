@@ -1,6 +1,6 @@
 ---
 title: Hrachovka
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

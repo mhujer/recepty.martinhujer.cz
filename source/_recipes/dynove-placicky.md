@@ -1,6 +1,6 @@
 ---
 title: Dýňové placičky
-categories: main
+tags: main
 ---
 
 ### Suroviny - placičky

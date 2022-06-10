@@ -1,6 +1,6 @@
 ---
 title: Svařák
-categories: drink
+tags: drink
 ---
 
 ### Suroviny

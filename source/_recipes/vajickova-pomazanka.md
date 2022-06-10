@@ -1,6 +1,6 @@
 ---
 title: Vajíčková pomazánka
-categories: spread
+tags: spread
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Štrůdl tažený
-categories: dessert
+tags: dessert
 ---
 
 ### Suroviny (na 3 šišky)

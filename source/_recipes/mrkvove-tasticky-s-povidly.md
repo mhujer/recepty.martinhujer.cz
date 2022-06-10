@@ -1,6 +1,6 @@
 ---
 title: Mrkvové taštičky s povidly
-categories: dessert
+tags: dessert
 ---
 
 ### Suroviny

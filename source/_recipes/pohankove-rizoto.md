@@ -1,6 +1,6 @@
 ---
 title: Pohankové rizoto
-categories: main
+tags: main
 ---
 
 Říkám tomu rizoto, i když to s rizotem nemá nic společného ;-)

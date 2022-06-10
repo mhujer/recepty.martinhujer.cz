@@ -1,6 +1,6 @@
 ---
 title: Polévka z červené řepy
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Pstruh pečený v troubě
-categories: main
+tags: main
 ---
 
 V Lidlu prodávají chlazené kuchané pstruhy, ani ne moc drahé (ty na fotce dohromady asi za 150 Kč).

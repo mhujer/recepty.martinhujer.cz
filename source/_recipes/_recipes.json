@@ -1,0 +1,4 @@
+{
+    "layout": "recipes.njk",
+    "permalink": "{{ page.fileSlug | slugify }}/index.html"
+}

@@ -1,6 +1,6 @@
 ---
 title: Nudle do polévky
-categories: soup
+tags: soup
 ---
 
 Nudle se hodí třeba do [kuřecího vývaru](/kureci-vyvar/).

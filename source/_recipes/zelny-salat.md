@@ -1,6 +1,6 @@
 ---
 title: Zelný salát
-categories: misc
+tags: misc
 ---
 
 ### Suroviny

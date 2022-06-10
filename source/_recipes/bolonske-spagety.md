@@ -1,6 +1,6 @@
 ---
 title: Boloňské špagety
-categories: main
+tags: main
 ---
 
 ### Suroviny

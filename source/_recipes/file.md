@@ -1,6 +1,6 @@
 ---
 title: Treska nebo filé na pánvi
-categories: main
+tags: main
 ---
 
 ### Suroviny

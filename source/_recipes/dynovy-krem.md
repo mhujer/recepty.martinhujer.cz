@@ -1,6 +1,6 @@
 ---
 title: Dýňový krém
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

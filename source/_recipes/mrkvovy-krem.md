@@ -1,6 +1,6 @@
 ---
 title: Mrkvový krém
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Nivová pomazánka
-categories: spread
+tags: spread
 ---
 
 ### Suroviny

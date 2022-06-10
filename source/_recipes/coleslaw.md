@@ -1,6 +1,6 @@
 ---
 title: Coleslaw
-categories: misc
+tags: misc
 ---
 
 ### Suroviny

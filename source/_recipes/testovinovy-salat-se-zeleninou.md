@@ -1,6 +1,6 @@
 ---
 title: Těstovinový salát se zeleninou
-categories: main
+tags: main
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Salsa de tomate
-categories: spread
+tags: spread
 ---
 
 Výsledkem bude salsa, která jde nabírat nakrájenou bagetou.

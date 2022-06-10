@@ -1,6 +1,6 @@
 ---
 title: Smažené jarní závitky
-categories: main
+tags: main
 ---
 
 ### Suroviny

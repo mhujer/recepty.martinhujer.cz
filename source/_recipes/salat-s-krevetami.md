@@ -1,6 +1,6 @@
 ---
 title: Salát s krevetami
-categories: main
+tags: main
 ---
 
 ### Suroviny

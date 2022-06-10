@@ -1,6 +1,6 @@
 ---
 title: Kuřecí vývar
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

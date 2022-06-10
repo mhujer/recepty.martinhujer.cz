@@ -1,0 +1,13 @@
+{% extends "layout.njk" %}
+
+
+{% block content_wrapper -%}
+    <article>
+        <header>
+            <h2>{{ title }}</h2>
+        </header>
+        <div>
+            {{ content | safe }}
+        </div>
+    </article>
+{%- endblock -%}

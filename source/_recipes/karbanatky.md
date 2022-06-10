@@ -1,6 +1,6 @@
 ---
 title: Karbanátky
-categories: main
+tags: main
 ---
 
 *Inspirace [odsud](https://www.rohlik.cz/chef/35-karbanatky).*

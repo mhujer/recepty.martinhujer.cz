@@ -1,6 +1,6 @@
 ---
 title: Brambory s tvarohem
-categories: main
+tags: main
 ---
 
 ### Suroviny

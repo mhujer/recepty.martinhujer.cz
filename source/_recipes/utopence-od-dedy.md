@@ -1,6 +1,6 @@
 ---
 title: Utopence od dědy
-categories: misc
+tags: misc
 ---
 
 Recept je jako fotka papíru, na kterém jsem ho dostal od dědy.

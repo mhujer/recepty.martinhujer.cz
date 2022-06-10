@@ -1,6 +1,6 @@
 ---
 title: Celerová pomazánka
-categories: spread
+tags: spread
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Kuře na kari
-categories: main
+tags: main
 ---
 
 

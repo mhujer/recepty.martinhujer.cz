@@ -1,6 +1,6 @@
 ---
 title: Zeleninový krém (aka svíčková polévka)
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

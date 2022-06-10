@@ -1,6 +1,6 @@
 ---
 title: Špenát s volským vokem a brambory
-categories: main
+tags: main
 ---
 
 ### Suroviny

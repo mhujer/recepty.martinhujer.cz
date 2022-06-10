@@ -1,6 +1,6 @@
 ---
 title: Kuřecí křídla v medové marinádě
-categories: main
+tags: main
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Zázvorový čaj
-categories: drink
+tags: drink
 ---
 
 ### Suroviny

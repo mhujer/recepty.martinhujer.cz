@@ -1,6 +1,6 @@
 ---
 title: Avokádová pomazánka
-categories: spread
+tags: spread
 ---
 
 ### Suroviny

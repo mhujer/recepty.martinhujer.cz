@@ -1,6 +1,6 @@
 ---
 title: Knedlíky s vajíčkem a cibulkou
-categories: main
+tags: main
 ---
 
 ### Suroviny

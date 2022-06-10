@@ -1,6 +1,6 @@
 ---
 title: Květákový mozeček
-categories: main
+tags: main
 ---
 
 ### Suroviny

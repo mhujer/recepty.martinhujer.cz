@@ -1,6 +1,6 @@
 ---
 title: Červené kari s kuřecím masem
-categories: main
+tags: main
 ---
 
 ### Suroviny

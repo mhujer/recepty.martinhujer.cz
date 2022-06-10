@@ -1,6 +1,6 @@
 ---
 title: Žemlovka
-categories: main-sweet
+tags: main-sweet
 ---
 
 ### Suroviny

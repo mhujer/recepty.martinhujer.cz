@@ -1,6 +1,6 @@
 ---
 title: Brokolicový krém
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

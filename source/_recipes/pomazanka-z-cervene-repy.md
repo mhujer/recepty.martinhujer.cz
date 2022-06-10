@@ -1,6 +1,6 @@
 ---
 title: Pomazánka z červené řepy
-categories: spread
+tags: spread
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Čočkovka
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Ovocné knedlíky
-categories: main-sweet
+tags: main-sweet
 ---
 
 ### Suroviny (pro 2 lidi)

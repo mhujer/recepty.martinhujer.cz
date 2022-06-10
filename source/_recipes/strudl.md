@@ -1,6 +1,6 @@
 ---
 title: Štrúdl
-categories: dessert
+tags: dessert
 ---
 
 ### Suroviny

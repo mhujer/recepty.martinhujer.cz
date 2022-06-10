@@ -1,6 +1,6 @@
 ---
 title: Bulgur s červenou řepou a kozím sýrem
-categories: main
+tags: main
 ---
 
 ### Suroviny (3-4 porce)

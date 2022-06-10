@@ -1,6 +1,6 @@
 ---
 title: Guláš
-categories: main
+tags: main
 ---
 
 ### Suroviny

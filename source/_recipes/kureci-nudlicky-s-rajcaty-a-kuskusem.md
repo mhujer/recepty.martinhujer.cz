@@ -1,6 +1,6 @@
 ---
 title: Kuřecí nudličky s rajčaty a kuskusem
-categories: main
+tags: main
 ---
 
 ### Suroviny

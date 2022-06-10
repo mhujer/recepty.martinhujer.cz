@@ -1,6 +1,6 @@
 ---
 title: Houbové řízky
-categories: main
+tags: main
 ---
 
 ### Suroviny

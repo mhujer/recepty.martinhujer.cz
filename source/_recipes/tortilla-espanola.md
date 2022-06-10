@@ -1,6 +1,6 @@
 ---
 title: Tortilla Española
-categories: main
+tags: main
 ---
 
 *Inspirováno [tímto videem](https://www.youtube.com/watch?v=OUmMRSfj4g0).*

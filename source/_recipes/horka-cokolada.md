@@ -1,6 +1,6 @@
 ---
 title: Horká čokoláda
-categories: drink
+tags: drink
 ---
 
 ### Suroviny

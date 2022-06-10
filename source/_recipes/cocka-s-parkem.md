@@ -1,6 +1,6 @@
 ---
 title: Čočka s párkem
-categories: main
+tags: main
 ---
 
 ### Suroviny

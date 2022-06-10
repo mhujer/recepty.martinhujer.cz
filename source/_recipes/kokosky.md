@@ -1,6 +1,6 @@
 ---
 title: Kokosky
-categories: christmas-cookies
+tags: christmas-cookies
 ---
 
 ### Suroviny

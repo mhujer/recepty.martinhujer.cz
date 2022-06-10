@@ -1,6 +1,6 @@
 ---
 title: Špagety Carbonara
-categories: main
+tags: main
 ---
 
 ### Suroviny (4 porce)

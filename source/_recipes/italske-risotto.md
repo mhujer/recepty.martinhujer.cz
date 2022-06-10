@@ -1,6 +1,6 @@
 ---
 title: Italské risotto
-categories: main
+tags: main
 ---
 
 Vařím +- podle [www.risotto.cz/rizoto-s-kurecim-masem-a-se-spenatem/](http://www.risotto.cz/rizoto-s-kurecim-masem-a-se-spenatem/)

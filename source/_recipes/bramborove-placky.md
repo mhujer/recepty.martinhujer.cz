@@ -1,6 +1,6 @@
 ---
 title: Bramborové placky
-categories: main
+tags: main
 ---
 
 Ideální jídlo na spotřebování přebytečných uvařených brambor.

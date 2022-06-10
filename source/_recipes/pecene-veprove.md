@@ -1,6 +1,6 @@
 ---
 title: Pečené vepřové
-categories: main
+tags: main
 ---
 
 ### Suroviny

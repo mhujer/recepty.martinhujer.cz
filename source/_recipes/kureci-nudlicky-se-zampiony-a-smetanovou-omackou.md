@@ -1,6 +1,6 @@
 ---
 title: Kuřecí nudličky se žampiony a smetanovou omáčkou
-categories: main
+tags: main
 ---
 
 ### Suroviny

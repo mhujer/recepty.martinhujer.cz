@@ -1,6 +1,6 @@
 ---
 title: Celozrnný žitný chléb
-categories: bread
+tags: bread
 ---
 
 

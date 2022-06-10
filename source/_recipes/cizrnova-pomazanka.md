@@ -1,6 +1,6 @@
 ---
 title: Cizrnová pomazánka
-categories: spread
+tags: spread
 ---
 
 > Inspirace od [Margit.cz](http://www.margit.cz/co-na-snidane-a-svaciny/)

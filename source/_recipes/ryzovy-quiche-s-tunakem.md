@@ -1,6 +1,6 @@
 ---
 title: Rýžový quiche s tuňákem
-categories: main
+tags: main
 ---
 
 ### Suroviny

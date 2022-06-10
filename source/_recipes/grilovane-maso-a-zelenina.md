@@ -1,6 +1,6 @@
 ---
 title: Grilované maso a zelenina
-categories: main
+tags: main
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Brynzové halušky se slaninou
-categories: main
+tags: main
 ---
 
 ### Suroviny

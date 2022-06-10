@@ -1,6 +1,6 @@
 ---
 title: Bramboráky
-categories: main
+tags: main
 ---
 
 ### Suroviny

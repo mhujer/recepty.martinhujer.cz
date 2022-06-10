@@ -1,6 +1,6 @@
 ---
 title: Špenátový krém
-categories: soup
+tags: soup
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Kuřecí či vepřové řízky
-categories: main
+tags: main
 ---
 
 ### Suroviny

@@ -1,6 +1,6 @@
 ---
 title: Bramborový salát
-categories: main
+tags: main
 ---
 
 ### Suroviny

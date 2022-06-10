@@ -1,6 +1,6 @@
 ---
 title: Tvarohový nákyp
-categories: main-sweet
+tags: main-sweet
 ---
 
 ### Suroviny
