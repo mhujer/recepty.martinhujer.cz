@@ -7,13 +7,13 @@ tags: dessert
 - 150 ml silné espresso 
 - cca 25 ks cukrářské piškoty
 - 50 g cukru
-- 500 g mascarpone
-- 500 ml šlehačky (35%+)
+- 500 g mascarpone (případně stačí polovina množství)
+- 500 ml šlehačky (35%+) (případně stačí polovina množství)
 - kakao
 
 
 ### Postup
-- uvařte 3-4 malá espressa a nechce vychladnout
+- uvařte 3-4 malá espressa a nechte vychladnout
 - vyšlehejte šlehačku s cukrem a smíchejte s mascarpone
 - připravte si mísu (používám zapékací mísu)
 - piškot namočte do kávy z obou stran a položte do mísy (nenechte moc nasáknout, musí pak pohltit nějakou vlhkost ze šlehačky)

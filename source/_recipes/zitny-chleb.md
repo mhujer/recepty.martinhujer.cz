@@ -29,7 +29,7 @@ Prvním krokem je příprava rozkvasu.
 - 75 g ovesných vloček
 - 75 g slunečnicových semínek (nebo nasekané vlašské ořechy)
 - 15 g soli
-- máslo na vymazání formy
+- máslo nebo sádlo na vymazání formy
   
 
 ### Postup
