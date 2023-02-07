@@ -32,3 +32,7 @@ tags: dessert
 - rozšleháme bílek a potřeme koláč
 - propícháme vydličkou (hodně, třeba 50 ×), aby se nevyboulil
 - pečeme do zlatova
+
+![Spodní placka](/fotky/jablecny-kolac-1.jpg)
+
+![Částečně zakryté](/fotky/jablecny-kolac-2.jpg)

@@ -19,3 +19,5 @@ tags: drink
 
 
 Tip na zhoustnutí pomocí solamylu jsem našel v [Horká čokoláda pro zimní chladno](https://www.kucharkaprodceru.cz/horka-cokolada/)
+
+![Horká čokoláda](/fotky/horka-cokolada.jpg)

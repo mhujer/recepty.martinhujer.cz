@@ -27,6 +27,8 @@ tags: main
 
 **Tip:** připravte těsto z dvojité dávky a z toho co zbyde od večeře, můžete udělat palačinky k snídani.
 
+![Palačinky](/fotky/palacinky.jpg)
+
 ![Palačinka na pánvi](/fotky/palacinky-1.jpg)
 
 ![Shromažďujeme](/fotky/palacinky-2.jpg)

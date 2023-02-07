@@ -28,3 +28,8 @@ _Dělám podle [Domácí tyčinky s vůní Itálie – ty musíte ochutnat](http
 - dáváme na plech vyložený pečicím papírem (to množství vyjde tak na dva plechy, dávám vždycky rovnou ten první už péct a teprve pak válím druhou placku)
 - pak potřeme olivovým olejem a posypeme hrubozrnnou solí
 - a rovnou dáme péct (na 200 °C, tak 10-15 min)
+
+
+![Nakrájená placka](/fotky/domaci-tycky-1.jpg)
+
+![Na plechu](/fotky/domaci-tycky-2.jpg)
