@@ -3,24 +3,28 @@ title: Guláš
 tags: main
 ---
 
+Inspirace od [Cuketky](https://www.stream.cz/cuketka/jak-na-poctivy-gulas-z-hovezi-klizky-64546253).
+
+Ideální je dělat rovnou více porcí a dát si zamrazit, protože práce to je pořád stejně.
+
 ### Suroviny
-- vepřové plec (100 g na porci)
-- cibule (stejně jako masa)
+- sádlo
+- hovězí kližka (150 g na porci)
+- cibule (3 velké na 1kg masa)
 - česnek
 - sladká paprika, pálivá paprika
-- pepř, sůl, majoránka, mletý kmín
-- rajský protlak (volitelně)
+- drcený kmín
+- bobkový list
+- pepř, sůl, majoránka
+- rajský protlak
 
 ### Postup
-- v hrnci (ideálně papiňáku) osmažíme cibulku (tím, že ji je hodně, tak to bude trvat déle)
-- přidáme na kostky nakrájené maso a orestujeme
-- přidáme sladkou i pálivou papriku a česnek, a ještě chvilinku restujeme (paprika i česnek se může jen chvilku, aby to nezhořklo)
-- přidáme majoránku, sůl, pepř a kmín
+- v hrnci (ideálně papiňáku) osmažíme na sádle cibulku (osolit) do hněda
+- přidáme na kostky nakrájené a osolené maso a dlouho restujeme
+- přidáme kmín, sladkou i pálivou papriku, česnek, bobkový list, protlak, pepř, a ještě chvilinku restujeme (jen chvilku, aby to nezhořklo)
 - zalijeme vodou
-- můžeme přidat rajský protlak pro barvu
-- vaříme 20 minut (v papiňáku, jinak déle)
-- zahustíme buď jíškou nebo najemno nadrobeným chlebem (jen vnitřkem)
-- chvíli povaříme
+- vaříme do měkka (40 minut v papiňáku, jinak déle)
+- přidáme majoránku
 - podáváme s těstovinami nebo houskovým knedlíkem
 - můžeme posypat čerstvou cibulí
 
